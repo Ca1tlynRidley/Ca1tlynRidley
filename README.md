@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Loghan 🐢
 
-<!--
-**Ca1tlynRidley/Ca1tlynRidley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Minecraft mod developer, Linux server administrator, and Electrical & Electronic Engineering 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured project
+
+### [BTD Shop & Sell](https://github.com/Ca1tlynRidley/BTD-Shop-Sell)
+A Fabric 1.20.1 shop and selling mod powered by the Impactor economy system.
+
+- GUI-based `/shop` and `/sell` menus
+- Item categories and configurable pricing
+- Stack quantity controls and inventory validation
+- Developed using Java, Fabric, Gradle, Git, and GitHub
+
+## 🛠️ Technical experience
+
+- **Minecraft:** Fabric modding, modded server administration, datapacks, permissions, economy systems, crash-log analysis, and compatibility troubleshooting
+- **Programming:** Java, C++, Python, HTML, CSS, PHP, and SQL
+- **Systems:** Ubuntu Linux, SSH, Windows/WSL, AWS EC2, Oracle Cloud, Git, and GitHub
+- **Engineering:** ESP32, robotics, digital electronics, circuit design, AutoCAD, and Multisim
+
+## 🤖 Robotics
+
+- Current member of **UMPBOT Club**
+- Participated in the **National Robotic League Competition from 2022 to 2025**
+- Worked on sumo-robot and Jansen-linkage walking-robot concepts
+
+## 🌱 Focussing on
+
+- Better Java architecture and code quality
+- Data structures and computer engineering
+- Minecraft mod development 
+- Embedded systems and robotics
+
+## 📫 Find me
+
+- GitHub: [@Ca1tlynRidley](https://github.com/Ca1tlynRidley)
+- Modrinth: https://modrinth.com/user/Ca1tlynn_
+- X: https://x.com/home
+
