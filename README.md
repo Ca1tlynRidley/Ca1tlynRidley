@@ -1,6 +1,6 @@
 # Hi, I'm Loghan 🐢
 
-### Minecraft mod developer, Linux server administrator, and Electrical & Electronic Engineering 
+### Minecraft mod developer, Linux server administrator, and Electrical & Electronic Engineering Student
 
 
 ## 🚀 Featured project
