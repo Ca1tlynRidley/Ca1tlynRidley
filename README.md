@@ -17,7 +17,7 @@ A Fabric 1.20.1 shop and selling mod powered by the Impactor economy system.
 - Item categories and configurable pricing
 - Stack quantity controls and inventory validation
 - Developed using Java, Fabric, Gradle, Git, and GitHub
-- 
+  
 ## 🛠️ Technical experience
 
 - **Minecraft:** Fabric modding, modded server administration, datapacks, permissions, economy systems, crash-log analysis, and compatibility troubleshooting
