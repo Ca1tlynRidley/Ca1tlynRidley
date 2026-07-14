@@ -1,5 +1,5 @@
 # Hi, I'm Loghan 🐢
-29/09/07 19yo
+29/09/07 18yo
 
 ### Minecraft mod developer, Linux server administrator, and Electrical & Electronic Engineering Student
 
