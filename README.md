@@ -1,4 +1,4 @@
-# Hi, I'm Loghan 🐢
+# Hi, I'm Loghan | Caitlyn 🐢
 18yo
 
 ### Minecraft mod developer, Linux server administrator, and Electrical & Electronic Engineering Student
