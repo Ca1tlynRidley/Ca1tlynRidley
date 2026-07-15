@@ -7,7 +7,7 @@
 </p>
 # Hi, I'm Loghan 🐢
 
-**Also known as Ca1tlynn_ online**
+**Also known as Caitlyn online**
 
 Minecraft mod developer • Linux server administrator • Electrical & Electronic Engineering student
 
