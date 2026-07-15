@@ -13,7 +13,7 @@ Minecraft mod developer • Linux server administrator • Electrical & Electron
 **• 18yo • Malaysia 🇲🇾**
 
 ![Java](https://img.shields.io/badge/Java-Developer-orange?logo=openjdk&logoColor=white)
-![Fabric](https://img.shields.io/badge/Fabric-1.20.1-d7c7a6)
+![Fabric](https://img.shields.io/badge/Fabric-Developer-d7c7a6)
 ![Minecraft](https://img.shields.io/badge/Minecraft-Modding-62B47A?logo=minecraft&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux-E95420?logo=ubuntu&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Git-GitHub-181717?logo=github&logoColor=white)
