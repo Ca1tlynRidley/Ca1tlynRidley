@@ -1,20 +1,34 @@
-![Minecraft Axolotl Banner](assets/axolotl.png)
+<p align="center">
+  <img src="assets/axolotl.png" alt="Minecraft axolotl banner" width="100%">
+</p>
 
-# Hi, I'm Loghan 🐢
+<h1 align="center">Hi, I'm Loghan 🐢</h1>
 
-**Also known as Ca1tlynn_ online**
+<p align="center">
+  Also known as <strong>Ca1tlynn_</strong> online
+</p>
 
-Minecraft mod developer • Linux server administrator • Electrical & Electronic Engineering student
+<p align="center">
+  <strong>Minecraft mod developer · Linux server administrator · Electrical & Electronic Engineering student</strong>
+</p>
 
-**29/09/07 • 18yo • Malaysia 🇲🇾**
+<p align="center">
+  <sub>29/09/07 · 18yo · Malaysia 🇲🇾</sub>
+</p>
 
-![Java](https://img.shields.io/badge/Java-Developer-orange?logo=openjdk&logoColor=white)
-![Fabric](https://img.shields.io/badge/Fabric-1.20.1-d7c7a6)
-![Minecraft](https://img.shields.io/badge/Minecraft-Modding-62B47A?logo=minecraft&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux-E95420?logo=ubuntu&logoColor=white)
-![GitHub](https://img.shields.io/badge/Git-GitHub-181717?logo=github&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Developer-orange?logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Fabric-1.20.1-d7c7a6" alt="Fabric">
+  <img src="https://img.shields.io/badge/Minecraft-Modding-62B47A?logo=minecraft&logoColor=white" alt="Minecraft Modding">
+  <img src="https://img.shields.io/badge/Ubuntu-Linux-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu Linux">
+  <img src="https://img.shields.io/badge/Git-GitHub-181717?logo=github&logoColor=white" alt="Git and GitHub">
+</p>
 
 ---
+
+<table>
+  <tr>
+    <td width="72%" valign="top">
 
 ## About me
 
@@ -24,7 +38,13 @@ I am currently completing my second year of a **Diploma in Electrical and Electr
 
 > I make mods, break servers, read the logs, and fix them again.
 
-![Decorative profile sticker](assets/reagan.jpg)
+    </td>
+    <td width="28%" align="center" valign="middle">
+      <img src="assets/reagan.jpg" alt="Decorative profile sticker" width="190">
+    </td>
+ 
+  </tr>
+</table>
 
 ---
 
@@ -32,39 +52,45 @@ I am currently completing my second year of a **Diploma in Electrical and Electr
 
 ### 🥚 [Capture Egg](https://github.com/Ca1tlynRidley/capture-egg)
 
-A Fabric 1.20.1 mod that lets players capture mobs—including bosses like the Wither—inside a reusable item and release them later.
+A Fabric 1.20.1 mod that lets you capture any mob — including bosses like the Wither — into a reusable item and release it later.
 
-**Highlights**
+- Full NBT-based entity capture and release, preserving villager professions and trades
+- Custom mixins to intercept vanilla GUIs, including villager trading, for capture-on-shift-click
+- Custom item rendering with dynamic tooltips, enchantment glint, and a colored display name
+- Developed using **Java, Fabric, Mixin, Gradle, Git, and GitHub**
 
-- Full NBT-based entity capture and release
-- Preserves villager professions and trades
-- Custom mixins for special interactions
-- Dynamic tooltips, enchantment glint, and coloured display names
-- Built with Java, Fabric, Mixin, Gradle, Git, and GitHub
-
-[![View Capture Egg](https://img.shields.io/badge/View_Capture_Egg-Repository-2ea44f?style=for-the-badge&logo=github)](https://github.com/Ca1tlynRidley/capture-egg)
+<p align="center">
+  <a href="https://github.com/Ca1tlynRidley/capture-egg">
+    <img src="https://img.shields.io/badge/View_Capture_Egg-Repository-2ea44f?style=for-the-badge&logo=github" alt="View Capture Egg repository">
+  </a>
+</p>
 
 ### 💰 [BTD Shop & Sell](https://github.com/Ca1tlynRidley/BTD-Shop-Sell)
 
 A Fabric 1.20.1 shop and selling mod powered by the Impactor economy system.
 
-**Highlights**
-
 - GUI-based `/shop` and `/sell` menus
 - Item categories and configurable pricing
-- Stack quantity controls
-- Inventory validation
-- Built with Java, Fabric, Gradle, Git, and GitHub
+- Stack quantity controls and inventory validation
+- Developed using **Java, Fabric, Gradle, Git, and GitHub**
 
-[![View BTD Shop & Sell](https://img.shields.io/badge/View_BTD_Shop_&_Sell-Repository-2ea44f?style=for-the-badge&logo=github)](https://github.com/Ca1tlynRidley/BTD-Shop-Sell)
+<p align="center">
+  <a href="https://github.com/Ca1tlynRidley/BTD-Shop-Sell">
+    <img src="https://img.shields.io/badge/View_BTD_Shop_&_Sell-Repository-2ea44f?style=for-the-badge&logo=github" alt="View BTD Shop and Sell repository">
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Technical experience
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
 ### Minecraft
 
-- Fabric mod development
+- Fabric modding
 - Modded server administration
 - Datapacks and permissions
 - Economy systems
@@ -79,6 +105,9 @@ A Fabric 1.20.1 shop and selling mod powered by the Impactor economy system.
 - HTML and CSS
 - PHP
 - SQL
+
+    </td>
+    <td width="50%" valign="top">
 
 ### Systems
 
@@ -98,17 +127,21 @@ A Fabric 1.20.1 shop and selling mod powered by the Impactor economy system.
 - AutoCAD
 - Multisim
 
+    </td>
+  </tr>
+</table>
+
 ---
+
+<table>
+  <tr>
+    <td width="72%" valign="top">
 
 ## 🤖 Robotics
 
 - Current member of **UMPBOT Club**
 - Participated in the **National Robotic League Competition from 2022 to 2025**
 - Worked on **sumo-robot** and **Jansen-linkage walking-robot** concepts
-
-![Decorative warrior sticker](assets/sasha.png)
-
----
 
 ## 🎯 Currently focusing on
 
@@ -117,14 +150,32 @@ A Fabric 1.20.1 shop and selling mod powered by the Impactor economy system.
 - Minecraft mod development
 - Embedded systems and robotics
 
+    </td>
+    <td width="28%" align="center" valign="middle">
+      <img src="assets/sasha.png" alt="Decorative warrior sticker" width="190">
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🌐 Find me
 
-[![GitHub](https://img.shields.io/badge/GitHub-@Ca1tlynRidley-181717?style=for-the-badge&logo=github)](https://github.com/Ca1tlynRidley)
+<p align="center">
+  <a href="https://github.com/Ca1tlynRidley">
+    <img src="https://img.shields.io/badge/GitHub-@Ca1tlynRidley-181717?style=for-the-badge&logo=github" alt="GitHub profile">
+  </a>
+  <a href="https://modrinth.com/user/Ca1tlynn">
+    <img src="https://img.shields.io/badge/Modrinth-Ca1tlynn-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth profile">
+  </a>
+  <a href="https://x.com/home">
+    <img src="https://img.shields.io/badge/X-Profile-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile">
+  </a>
+</p>
 
-[![Modrinth](https://img.shields.io/badge/Modrinth-Ca1tlynn-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/Ca1tlynn)
+<p align="center">
+  <strong>Thanks for visiting my profile!</strong>
+</p>
 
----
-
+<p align="center">🐢</p>
 **Thanks for visiting my profile!** 🐢
