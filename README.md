@@ -138,7 +138,7 @@ A Fabric 1.20.1 shop and selling mod powered by the Impactor economy system.
 
 [![Bluesky](https://img.shields.io/badge/Bluesky-@logrid.bsky.social-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/logrid.bsky.social)
 
-[![Email](https://img.shields.io/badge/Email-vkloghan2909%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vkloghan2909@gmail.com)
+📧 Contact me: [vkloghan2909@gmail.com](mailto:vkloghan2909@gmail.com)
 ---
 
 **Thanks for visiting my profile!** 🐢
