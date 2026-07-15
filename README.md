@@ -1,4 +1,4 @@
-![Minecraft Axolotl Banner](assets/axolotl-banner.jpg)
+![Minecraft Axolotl Banner](assets/axolotl.png)
 
 # Hi, I'm Loghan 🐢
 
@@ -24,7 +24,7 @@ I am currently completing my second year of a **Diploma in Electrical and Electr
 
 > I make mods, break servers, read the logs, and fix them again.
 
-![Decorative profile sticker](assets/reagan-sticker.jpg)
+![Decorative profile sticker](assets/reagan.jpg)
 
 ---
 
@@ -106,7 +106,7 @@ A Fabric 1.20.1 shop and selling mod powered by the Impactor economy system.
 - Participated in the **National Robotic League Competition from 2022 to 2025**
 - Worked on **sumo-robot** and **Jansen-linkage walking-robot** concepts
 
-![Decorative warrior sticker](assets/sasha-sticker.png)
+![Decorative warrior sticker](assets/sasha.png)
 
 ---
 
