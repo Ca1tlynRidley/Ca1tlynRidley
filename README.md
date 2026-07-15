@@ -1,6 +1,20 @@
-<p align="center">
-  <img src="assets/axolotl.png" alt="Minecraft Axolotl Banner" height="242">
-</p>
+<table align="center" cellspacing="0" cellpadding="7">
+  <tr>
+    <td bgcolor="#ffb3d9">
+      <table cellspacing="0" cellpadding="4">
+        <tr>
+          <td bgcolor="#ff5fa2">
+            <img
+              src="assets/axolotl.png"
+              alt="Minecraft Axolotl Banner"
+              height="242"
+            >
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 # Hi, I'm Loghan 🐢
 
 **Also known as Ca1tlynn_ online**
