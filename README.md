@@ -4,8 +4,7 @@
     alt="Minecraft Axolotl Banner"
     height="242"
   >
-</p>
-# Hi, I'm Loghan 🐢
+</p><h1>Hi, I'm Loghan 🐢</h1>
 
 **Also known as Caitlyn online**
 
