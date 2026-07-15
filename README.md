@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/axolotl.jpg" alt="Minecraft Axolotl Banner" width="850">
+  <img src="assets/axolotl.png" alt="Minecraft Axolotl Banner" width="850">
 </p>
 
 # Hi, I'm Loghan 🐢
