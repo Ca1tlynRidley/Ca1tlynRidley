@@ -140,6 +140,8 @@ A Fabric 1.20.1 shop and selling mod powered by the Impactor economy system.
 
 [![X](https://img.shields.io/badge/X-@LoghanVijayan-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LoghanVijayan)
 
+[![Bluesky](https://img.shields.io/badge/Bluesky-@logrid.bsky.social-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/logrid.bsky.social)
+
 ---
 
 **Thanks for visiting my profile!** 🐢
