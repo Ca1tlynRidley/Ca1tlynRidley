@@ -32,7 +32,7 @@ A Fabric 1.20.1 shop and selling mod powered by the Impactor economy system.
 - Participated in the **National Robotic League Competition from 2022 to 2025**
 - Worked on sumo-robot and Jansen-linkage walking-robot concepts
 
-## 🌱 Focussing on
+## 🌱 Currently focusing on
 
 - Better Java architecture and code quality
 - Data structures and computer engineering
