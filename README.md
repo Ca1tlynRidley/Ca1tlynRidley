@@ -138,6 +138,8 @@ A Fabric 1.20.1 shop and selling mod powered by the Impactor economy system.
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-Ca1tlynn-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/Ca1tlynn)
 
+[![X](https://img.shields.io/badge/X-@LoghanVijayan-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LoghanVijayan)
+
 ---
 
 **Thanks for visiting my profile!** 🐢
