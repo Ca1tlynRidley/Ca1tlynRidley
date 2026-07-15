@@ -30,7 +30,7 @@ I am currently completing my second year of a **Diploma in Electrical and Electr
 > I make mods, break servers, read the logs, and fix them again.
 
 <p align="center">
-  <img src="assets/reagan.jpg" alt="Decorative Reagan sticker" width="100">
+  <img src="assets/reagan.jpg" alt="Decorative Reagan sticker" width="120">
 </p>
 
 ---
