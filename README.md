@@ -1,8 +1,6 @@
-<img
-    src="assets/axolotl.png"
-    alt="Minecraft Axolotl Banner"
-    height="242"
-  >
+<p align="center">
+  <img src="assets/axolotl.png" alt="Minecraft Axolotl Banner" height="242">
+</p>
 </p><h1>Hi, I'm Loghan 𓆩❤︎𓆪</h1>
 
 **Also known as Caitlyn ✦₊˚ 🦋︎ ˚₊✦ online**
