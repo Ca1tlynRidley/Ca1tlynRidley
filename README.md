@@ -1,4 +1,6 @@
-![Minecraft Axolotl Banner](assets/axolotl-banner.jpg)
+<p align="center">
+  <img src="assets/axolotl-banner.jpg" alt="Minecraft Axolotl Banner" width="850">
+</p>
 
 # Hi, I'm Loghan 🐢
 
