@@ -5,7 +5,7 @@
     height="242"
   >
 </p>
-#Hi, I'm Loghan 🐢#
+# Hi, I'm Loghan 🐢
 
 **Also known as Ca1tlynn_ online**
 
