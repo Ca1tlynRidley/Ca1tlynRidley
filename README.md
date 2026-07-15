@@ -11,7 +11,7 @@
 
 Minecraft mod developer • Linux server administrator • Electrical & Electronic Engineering student
 
-**29/09/07 • 18yo • Malaysia 🇲🇾**
+**• 18yo • Malaysia 🇲🇾**
 
 ![Java](https://img.shields.io/badge/Java-Developer-orange?logo=openjdk&logoColor=white)
 ![Fabric](https://img.shields.io/badge/Fabric-1.20.1-d7c7a6)
