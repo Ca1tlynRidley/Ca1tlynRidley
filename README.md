@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/axolotl-banner.jpg" alt="Minecraft Axolotl Banner" width="850">
+  <img src="assets/axolotl.jpg" alt="Minecraft Axolotl Banner" width="850">
 </p>
 
 # Hi, I'm Loghan 🐢
@@ -26,7 +26,7 @@ I am currently completing my second year of a **Diploma in Electrical and Electr
 
 > I make mods, break servers, read the logs, and fix them again.
 
-![Decorative profile sticker](assets/reagan-sticker.jpg)
+![Decorative profile sticker](assets/reagan.jpg)
 
 ---
 
@@ -120,7 +120,7 @@ A Fabric 1.20.1 shop and selling mod powered by the Impactor economy system.
       </ul>
     </td>
     <td width="28%" align="center" valign="middle">
-      <img src="assets/sasha-sticker.png" alt="Sasha warrior sticker" width="230">
+      <img src="assets/sasha.png" alt="Sasha warrior sticker" width="230">
     </td>
   </tr>
 </table>
