@@ -25,18 +25,33 @@
 <table>
   <tr>
     <td width="72%" valign="top">
+      <h2>About me</h2>
 
-## About me
+      <p>
+        I develop <strong>Fabric mods</strong>, manage
+        <strong>modded Minecraft servers</strong>, and enjoy troubleshooting
+        technical problems involving <strong>Java, Linux, cloud hosting,
+        mods, and server configurations</strong>.
+      </p>
 
-I develop **Fabric mods**, manage **modded Minecraft servers**, and enjoy troubleshooting technical problems involving **Java, Linux, cloud hosting, mods, and server configurations**.
+      <p>
+        I am currently completing my second year of a
+        <strong>Diploma in Electrical and Electronic Engineering</strong>
+        while continuing to build projects in Minecraft modding, robotics,
+        embedded systems, and server administration.
+      </p>
 
-I am currently completing my second year of a **Diploma in Electrical and Electronic Engineering** while continuing to build projects in Minecraft modding, robotics, embedded systems, and server administration.
-
-> I make mods, break servers, read the logs, and fix them again.
-
+      <p>
+        <em>I make mods, break servers, read the logs, and fix them again.</em>
+      </p>
     </td>
+
     <td width="28%" align="center" valign="middle">
-      <img src="assets/reagan.jpg" alt="Decorative profile sticker" width="190">
+      <img
+        src="./assets/reagan.jpg"
+        alt="Decorative profile sticker"
+        width="190"
+      >
     </td>
   </tr>
 </table>
