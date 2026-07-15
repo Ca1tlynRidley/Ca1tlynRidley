@@ -1,12 +1,12 @@
-<p align="center">
+<img width="2560" height="1600" alt="2026-07-15_20 57 02" src="https://github.com/user-attachments/assets/4708f458-ae1e-4c19-8cbe-5b6a308cf1d7" /><p align="center">
   <img
     src="assets/axolotl.png"
     alt="Minecraft Axolotl Banner"
     height="242"
   >
-</p><h1>Hi, I'm Loghan 🐢</h1>
+</p><h1>Hi, I'm Loghan 𓆩❤︎𓆪</h1>
 
-**Also known as Caitlyn online**
+**Also known as Caitlyn ✦₊˚ 🦋︎ ˚₊✦ online**
 
 Minecraft mod developer • Linux server administrator • Electrical & Electronic Engineering student
 
