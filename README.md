@@ -32,7 +32,6 @@ user: Loghan (Caitlyn)
 role: Minecraft Modder & EEE Student
 education: Diploma in Electrical & Electronic Engineering (Year 2)
 passions: [Fabric Modding, Linux SysAdmin, Embedded Systems, Robotics]
-quote: "I make mods, break servers, read the logs, and fix them again."
 ```
 
 I develop **Fabric mods**, manage **dedicated modded Minecraft servers**, and specialize in technical problem-solving involving **Java, Linux, cloud infrastructure, Mixins, and server configurations**.
