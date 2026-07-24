@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=30&duration=3000&pause=1000&color=F5C2E7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Caitlyn+%E2%9C%A7%E2%82%8A%CB%9A+%F0%9F%A6%8B%EF%B8%8E+%CB%9A%E2%82%8A%E2%9C%A7;Minecraft+Mod+Developer+%E2%9B%8F%EF%B8%8F;Linux+Server+Administrator+%F0%9F%90%A7;Electrical+%26+Electronics+Engineering+%E2%9A%A1" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=30&duration=3000&pause=1000&color=F5C2E7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Caitlyn+%E2%9C%A7%E2%82%8A%CB%9A+%F0%9F%A6%8B%EF%B8%8E+%CB%9A%E2%82%8A%E2%9C%A7;Minecraft+Modder+%E2%9B%8F%EF%B8%8F;Linux+Server+Administrator+%F0%9F%90%A7;Electrical+%26+Electronics+Engineering+%E2%9A%A1" alt="Typing Header" />
 </h1>
 
 <p align="center">
-  <b>Minecraft Mod Developer</b> • <b>Linux Server Administrator</b> • <b>Electrical & Electronic Engineering Student</b>
+  <b>Minecraft Modder</b> • <b>Linux Server Administrator</b> • <b>Electrical & Electronic Engineering Student</b>
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ca1tlynRidley"><img src="https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
-  <a href="https://modrinth.com/user/Ca1tlynn"><img src="https://img.shields.io/badge/Fabric-Developer-dbb78a?style=for-the-badge&logo=modrinth&logoColor=white" alt="Fabric"></a>
+  <a href="https://github.com/Ca1tlynRidley"><img src="https://img.shields.io/badge/Java-Modder-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+  <a href="https://modrinth.com/user/Ca1tlynn"><img src="https://img.shields.io/badge/Fabric-Modder-dbb78a?style=for-the-badge&logo=modrinth&logoColor=white" alt="Fabric"></a>
   <a href="https://github.com/Ca1tlynRidley/BTD-SMP-MODDED"><img src="https://img.shields.io/badge/Minecraft-Modding-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft"></a>
   <a href="https://github.com/Ca1tlynRidley"><img src="https://img.shields.io/badge/Ubuntu-Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"></a>
 </p>
@@ -29,7 +29,7 @@
 
 ```yaml
 user: Loghan (Caitlyn)
-role: Minecraft Mod Developer & EEE Engineering Student
+role: Minecraft Modder & EEE Student
 education: Diploma in Electrical & Electronic Engineering (Year 2)
 passions: [Fabric Modding, Linux SysAdmin, Embedded Systems, Robotics]
 quote: "I make mods, break servers, read the logs, and fix them again."
