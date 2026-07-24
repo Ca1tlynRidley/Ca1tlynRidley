@@ -159,11 +159,12 @@ Currently in my 2nd year of **Diploma in Electrical & Electronic Engineering**, 
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Activity & Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ca1tlynRidley&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&hide_border=true" alt="Loghan's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ca1tlynRidley&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/Ca1tlynRidley?style=for-the-badge&logo=github&color=181717" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/Ca1tlynRidley?style=for-the-badge&logo=github&color=181717" alt="GitHub Stars">
+  <a href="https://modrinth.com/user/Ca1tlynn"><img src="https://img.shields.io/badge/Modrinth-2%20Mods%20Published-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth Mods"></a>
 </p>
 
 ---
