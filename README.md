@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=30&duration=3000&pause=1000&color=F5C2E7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Loghan!+%F0%9F%AA%A7;Also+known+as+Caitlyn+%E2%9C%A7%E2%82%8A%CB%9A+%F0%9F%A6%8B;Minecraft+Mod+Developer+%E2%9B%8F%EF%B8%8F;Linux+Server+Administrator+%F0%9F%90%A7;Electrical+%26+Electronics+Engineering+%E2%9A%A1" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=30&duration=3000&pause=1000&color=F5C2E7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Caitlyn+%E2%9C%A7%E2%82%8A%CB%9A+%F0%9F%A6%8B%EF%B8%8E+%CB%9A%E2%82%8A%E2%9C%A7;Minecraft+Mod+Developer+%E2%9B%8F%EF%B8%8F;Linux+Server+Administrator+%F0%9F%90%A7;Electrical+%26+Electronics+Engineering+%E2%9A%A1" alt="Typing Header" />
 </h1>
 
 <p align="center">
