@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Age-18yo-ff69b4?style=for-the-badge&logoColor=white" alt="Age">
   <img src="https://img.shields.io/badge/Location-Malaysia%20%F0%9F%87%B2%F0%9F%87%B4-008080?style=for-the-badge&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/Status-Diploma%20Year%202%20Student-blueviolet?style=for-the-badge&logoColor=white" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Diploma-blueviolet?style=for-the-badge&logoColor=white" alt="Status">
 </p>
 
 <p align="center">
